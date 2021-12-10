@@ -12,7 +12,6 @@ Brendan Burns
 O'REILLY
 
 Link to the book:
-[Google](www.google.com)
 https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647
 
 Link to the book chapter:
