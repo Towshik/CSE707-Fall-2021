@@ -12,7 +12,8 @@ Brendan Burns
 O'REILLY
 
 Link to the book:
-[https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647)
+[Google](www.google.com)
+https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647
 
 Link to the book chapter:
 https://books.google.com.bd/books?id=5hJNDwAAQBAJ&lpg=PP1&dq=Designing%20Distributed%20Systems%20Patterns%20and%20Paradigms%20for%20Scalable%2C%20Reliable%20Service%20by%20Brendan%20Burns&pg=PA59#v=onepage&q=Designing%20Distributed%20Systems%20Patterns%20and%20Paradigms%20for%20Scalable,%20Reliable%20Service%20by%20Brendan%20Burns&f=false
