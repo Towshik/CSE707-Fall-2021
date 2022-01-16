@@ -1,0 +1,36 @@
+Link to unlisted youtube video:
+https://youtu.be/ABvIZGVUU2M
+
+Conference / Paper submission login URL:
+http://saard.org/submission.php
+
+Link to the paper:
+https://drive.google.com/file/d/1rsYALYKRjzMa6pGWKlptf8ZZXbcQeKW1/view?usp=sharing
+
+Link to the slide:
+https://docs.google.com/presentation/d/1HmFFrpDtIYiXPqLq-sDkNfIvdndsELQ4/edit?usp=sharing&ouid=112002656911641702086&rtpof=true&sd=true
+
+Paper title:
+Development of a Smart Data base of products tailored  towards consumers using The Federated Core and the Genetic Algorithm.  
+
+Submitted to:
+SAARD - 142nd World Conference on Applied Science Engineering and Technology (WCASET)
+
+Submission Date:
+16 January,2022
+
+Paper submission ID: (received) from conference/workshop
+278
+
+Conference URL:
+http://saard.org/Conference2022/2/Bangladesh/WCASET/
+
+Group Number:
+02
+
+Group Members:
+(18201019)	Md. Abir Hasan
+(18301153)	Tamanna Afroz
+(21266002)	Mashrukh Ahmed
+(18301247)	Rukshana Amin Tonika
+(21266031)	JARIF AHMED SOUMIK
