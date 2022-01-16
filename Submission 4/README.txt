@@ -5,7 +5,7 @@ Conference / Paper submission login URL:
 https://waset.org/login
 
 Link to the paper:
-https://drive.google.com/file/d/1fpkHWWtwbIFqN51XULZnG-xXx2L05srM/view?usp=sharing
+https://drive.google.com/file/d/1PIgTRJlwPy_L53ofyGGzWlGsHXybOu8t/view?usp=sharing
 
 Link to the slide:
 https://docs.google.com/presentation/d/1SXnx4SMIMB4vHZ4sMgDxx__8PojnSs7VjRhy8aGoEio/edit?usp=sharing
