@@ -5,7 +5,7 @@ Conference / Paper submission login URL:
 https://waset.org/login
 
 Link to the paper:
-
+https://drive.google.com/file/d/1fpkHWWtwbIFqN51XULZnG-xXx2L05srM/view?usp=sharing
 
 Link to the slide:
 https://docs.google.com/presentation/d/1SXnx4SMIMB4vHZ4sMgDxx__8PojnSs7VjRhy8aGoEio/edit?usp=sharing
@@ -18,9 +18,6 @@ ICCAT 2022: 16. International Conference on Computer and Automation Technology
 
 Submission Date:
 16 January,2022
-
-Paper submission ID: (received) from conference/workshop
-
 
 Conference URL:
 https://waset.org/computer-and-automation-technology-conference-in-february-2022-in-sydney
