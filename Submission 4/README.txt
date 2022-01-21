@@ -23,7 +23,7 @@ Submission Date:
 21 January,2022
 
 Conference URL:
-https://www.cpp.edu/~jkorah/parsocial/topics.html
+https://www.cpp.edu/~jkorah/parsocial/index.html
 
 Group Number:
 02
