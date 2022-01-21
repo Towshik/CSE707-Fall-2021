@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 https://www.youtube.com/watch?v=q2kVhGyZNXE
 
 Conference / Paper submission login URL:
-https://waset.org/login
+https://easychair.org/my/conference?conf=ieeeparsocial2022#
 
 Link to the paper:
 https://drive.google.com/file/d/1PIgTRJlwPy_L53ofyGGzWlGsHXybOu8t/view?usp=sharing
@@ -13,14 +13,17 @@ https://docs.google.com/presentation/d/1SXnx4SMIMB4vHZ4sMgDxx__8PojnSs7VjRhy8aGo
 Paper title:
 Chatbot for Distributed System using DNN  
 
+Paper ID:
+7337
+
 Submitted to:
-ICCAT 2022: 16. International Conference on Computer and Automation Technology 
+IEEE Workshop on Parallel and Distributed Processing for Computational Social Systems (ParSocial 2022)
 
 Submission Date:
-16 January,2022
+21 January,2022
 
 Conference URL:
-https://waset.org/computer-and-automation-technology-conference-in-february-2022-in-sydney
+https://www.cpp.edu/~jkorah/parsocial/topics.html
 
 Group Number:
 02
