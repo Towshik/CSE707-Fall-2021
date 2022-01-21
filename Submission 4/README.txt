@@ -1,5 +1,5 @@
 Link to unlisted youtube video:
-https://www.youtube.com/watch?v=q2kVhGyZNXE
+https://youtu.be/q2kVhGyZNXE
 
 Conference / Paper submission login URL:
 https://easychair.org/my/conference?conf=ieeeparsocial2022#
@@ -20,7 +20,7 @@ Submitted to:
 IEEE Workshop on Parallel and Distributed Processing for Computational Social Systems (ParSocial 2022)
 
 Submission Date:
-21 January,2022
+21 January,2022, 5:53 PM
 
 Conference URL:
 https://www.cpp.edu/~jkorah/parsocial/index.html
